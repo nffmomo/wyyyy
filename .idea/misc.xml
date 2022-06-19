@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/android_project/wyyyy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18425925925925926" />
         <entry key="..\:/android_project/wyyyy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18425925925925926" />
+        <entry key="..\:/android_project/wyyyy/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.2774431057563588" />
+        <entry key="..\:/android_project/wyyyy/app/src/main/res/layout-w936dp/activity_login.xml" value="0.25341530054644806" />
+        <entry key="..\:/android_project/wyyyy/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/android_project/wyyyy/app/src/main/res/layout/activity_login_action.xml" value="0.33" />
+        <entry key="..\:/android_project/wyyyy/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/android_project/wyyyy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18425925925925926" />
       </map>
     </option>
